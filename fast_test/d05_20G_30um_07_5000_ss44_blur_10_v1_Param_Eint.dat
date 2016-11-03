@@ -1,0 +1,14 @@
+MAT=Bi2212
+#Totalvotices=446
+lambda0[um]=0.18
+Tc[K]=88.70
+T[K]=86.10
+t=0.97069
+lambda(T,Tc)[um]=0.69352
+Energy_vortex_line(lambda)[(1e-8)erg/cm]=5.64161
+Eint_trianglatt(B,lambda)[(1e-8)erg/cm]=1.26807
+Eint_trianglatt/E0=0.22477
+Happl[G]=15.00
+Parameter=10
+rMAX(TF)[um]=4.59
+rMAX(TRIANG_LAT)[um]=13.95
